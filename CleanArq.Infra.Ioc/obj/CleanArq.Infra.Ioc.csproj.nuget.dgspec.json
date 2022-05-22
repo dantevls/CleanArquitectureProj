@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjectCleanArq\\CleanArq.Infra.Ioc\\CleanArq.Infra.Ioc.csproj": {}
+  },
+  "projects": {
+    "C:\\ProjectCleanArq\\CleanArq.Application\\CleanArq.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjectCleanArq\\CleanArq.Application\\CleanArq.Application.csproj",
+        "projectName": "CleanArq.Application",
+        "projectPath": "C:\\ProjectCleanArq\\CleanArq.Application\\CleanArq.Application.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectCleanArq\\CleanArq.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj": {
+                "projectPath": "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj",
+        "projectName": "CleanArq.Domain",
+        "projectPath": "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectCleanArq\\CleanArq.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjectCleanArq\\CleanArq.Infra.Data\\CleanArq.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjectCleanArq\\CleanArq.Infra.Data\\CleanArq.Infra.Data.csproj",
+        "projectName": "CleanArq.Infra.Data",
+        "projectPath": "C:\\ProjectCleanArq\\CleanArq.Infra.Data\\CleanArq.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectCleanArq\\CleanArq.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj": {
+                "projectPath": "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjectCleanArq\\CleanArq.Infra.Ioc\\CleanArq.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjectCleanArq\\CleanArq.Infra.Ioc\\CleanArq.Infra.Ioc.csproj",
+        "projectName": "CleanArq.Infra.Ioc",
+        "projectPath": "C:\\ProjectCleanArq\\CleanArq.Infra.Ioc\\CleanArq.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjectCleanArq\\CleanArq.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjectCleanArq\\CleanArq.Application\\CleanArq.Application.csproj": {
+                "projectPath": "C:\\ProjectCleanArq\\CleanArq.Application\\CleanArq.Application.csproj"
+              },
+              "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj": {
+                "projectPath": "C:\\ProjectCleanArq\\CleanArq.Domain\\CleanArq.Domain.csproj"
+              },
+              "C:\\ProjectCleanArq\\CleanArq.Infra.Data\\CleanArq.Infra.Data.csproj": {
+                "projectPath": "C:\\ProjectCleanArq\\CleanArq.Infra.Data\\CleanArq.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

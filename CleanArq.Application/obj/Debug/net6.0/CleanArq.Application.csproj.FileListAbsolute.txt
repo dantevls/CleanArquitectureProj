@@ -1,0 +1,15 @@
+C:\ProjectCleanArq\CleanArq.Application\bin\Debug\net6.0\CleanArq.Application.deps.json
+C:\ProjectCleanArq\CleanArq.Application\bin\Debug\net6.0\CleanArq.Application.dll
+C:\ProjectCleanArq\CleanArq.Application\bin\Debug\net6.0\CleanArq.Application.pdb
+C:\ProjectCleanArq\CleanArq.Application\bin\Debug\net6.0\CleanArq.Domain.dll
+C:\ProjectCleanArq\CleanArq.Application\bin\Debug\net6.0\CleanArq.Domain.pdb
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.csproj.AssemblyReference.cache
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.AssemblyInfoInputs.cache
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.AssemblyInfo.cs
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.csproj.CoreCompileInputs.cache
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.csproj.CopyComplete
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.dll
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\refint\CleanArq.Application.dll
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\CleanArq.Application.pdb
+C:\ProjectCleanArq\CleanArq.Application\obj\Debug\net6.0\ref\CleanArq.Application.dll
